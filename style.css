@@ -4,7 +4,8 @@
 }
 
 .box{
-    padding:0px;
+    padding:30px;
     background:red;
-    margin:0px;
+    margin:30px;
+    align-items: center;
 }
