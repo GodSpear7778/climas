@@ -4,9 +4,9 @@
 }
 
 .box{
-    padding:300px;
-    background:red;
-    margin:300px;
+    padding:50px;
+    background:rgba(16#888888ab);
+    margin:50px;
     align-items: center;
     width: 100px;
     height:100px;
