@@ -9,4 +9,15 @@ Centra el contenido principal (usa text-align o margin, lo que prefieras).
 Agrega un borde o sombra a la imagen.
 
 Al pasar el mouse por el enlace, que cambie de color.
-/*
+*/
+h1{
+    color:rgba(180,20,255,0.3);
+}
+
+a{
+    color:rgba(50,50,50,0.5);
+}
+
+body{
+    color:rgba(205,250,250,1);
+}
