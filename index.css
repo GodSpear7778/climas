@@ -1,11 +1,12 @@
-.box{
-    display:flex;
-    justify-content: center;
-    background: green;
-    padding:100px 100px 100px 100px;
-    margin:100px 100px 100px 100px;
-    height: 100px;
-    width:100px;
-    font-family: Arial, Helvetica, sans-serif;
+/*
+🎨 Estilos CSS a aplicar:
+Cambia el color de fondo de la página.
 
-}
+Usa un color distinto para el texto del encabezado.
+
+Centra el contenido principal (usa text-align o margin, lo que prefieras).
+
+Agrega un borde o sombra a la imagen.
+
+Al pasar el mouse por el enlace, que cambie de color.
+/*
